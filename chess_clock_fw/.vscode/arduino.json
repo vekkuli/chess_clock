@@ -1,0 +1,7 @@
+{
+    "sketch": "chess_clock_fw.ino",
+    "board": "SparkFun:avr:promicro",
+    "port": "COM9",
+    "configuration": "cpu=16MHzatmega32U4",
+    "output": "./build"
+}

@@ -1,0 +1,39 @@
+
+Status for device COM1:
+-----------------------
+    Baud:            115200
+    Parity:          None
+    Data Bits:       8
+    Stop Bits:       1
+    Timeout:         OFF
+    XON/XOFF:        OFF
+    CTS handshaking: OFF
+    DSR handshaking: OFF
+    DSR sensitivity: OFF
+    DTR circuit:     ON
+    RTS circuit:     OFF
+
+
+Status for device COM3:
+-----------------------
+    Baud:            0
+    Parity:          None
+    Data Bits:       8
+    Stop Bits:       1
+    Timeout:         OFF
+    XON/XOFF:        OFF
+    CTS handshaking: OFF
+    DSR handshaking: OFF
+    DSR sensitivity: OFF
+    DTR circuit:     OFF
+    RTS circuit:     ON
+
+
+Status for device CON:
+----------------------
+    Lines:          25
+    Columns:        309
+    Keyboard rate:  31
+    Keyboard delay: 1
+    Code page:      437
+
