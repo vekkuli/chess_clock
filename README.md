@@ -1,6 +1,6 @@
 # Chess Clock :clock1:
 
-![Render](img/render.jpg "Render")
+![Clip](img/clip.gif "Clip")
 
 This repo contains design and fabrication files for my DIY chess clock project. The main components in the design are
 
@@ -72,5 +72,9 @@ Full (I hope) bill of materials below. Most parts can be sourced from DigiKey.
 I don't know how they managed to mess this up :angry: but Pro Micro has a design flaw that causes it to brown out when started by applying power directly via either USB or VCC pin, i.e., not using the regulator on the board. One way to fix this, and what I did, is to remove the regulator IC. While at it, I decided to remove the tantalum capacitors as well.
 
 ## Images
+
+![Image](img/image.jpg "Image")
+
+![Render](img/render.jpg "Render")
 
 ![Exploded View](img/exploded_view.png "Exploded View")
